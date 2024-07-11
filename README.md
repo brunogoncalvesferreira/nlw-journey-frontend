@@ -29,7 +29,7 @@
 
 ## Getting Started Backend
 
-1. **Clonar Repo backend**: `https://github.com/brunogoncalvesferreira/backend.git`
+1. **Clonar Repo backend**: `https://github.com/brunogoncalvesferreira/Journey-backend.git`
 2. **Install Dependencies**: `npm install`
 3. **Create .env**: `.env`
 4. **Start backend**: `npm run dev`
