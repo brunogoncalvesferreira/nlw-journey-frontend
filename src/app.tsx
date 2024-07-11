@@ -4,7 +4,7 @@ import { TripDetails } from './pages/trip-details'
 
 const router = createBrowserRouter([
   {path: '/', element: <CreateTrip />},
-  {path: '/trips/:id', element: <TripDetails />},
+  {path: '/trips/:tripId', element: <TripDetails />},
 ])
 export function App() {
   return (
